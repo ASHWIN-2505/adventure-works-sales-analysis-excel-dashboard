@@ -30,7 +30,7 @@ Key fields used in the analysis:
 ## Dashboards
 
 ### Time Analysis Dashboard
-![Time Analysis](dashboard/time-analysis-dashboard.png)
+![Time Analysis](data/Dashboard/time-analysis-dashboard.png)
 
 This dashboard provides a high-level overview of business performance over time.
 
@@ -44,7 +44,7 @@ Key findings:
 ---
 
 ### Detailed Analysis Dashboard
-![Detailed Analysis](dashboard/detailed-analysis-dashboard.png)
+![Detailed Analysis](data/Dashboard/detailed-analysis-dashboard.png)
 
 This dashboard focuses on deeper insights across products, customers, and geography.
 
